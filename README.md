@@ -14,7 +14,7 @@ As a freelancer, I specialize in:
  My Tools & Skills
 
 - **Excel** (Pivot Tables, Data Analysis, Macros, VBA)
-- **Power BI** (Dashboards, Data Visualization, DAX)
+- **PowerBI** (Dashboards, Data Visualization, DAX)
 - **SQL** (Database queries, Management)
 - **Python** (Data manipulation, Visualization, Analysis)
 - **HTML/CSS/JS** (Basic web development)
