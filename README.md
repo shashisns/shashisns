@@ -7,8 +7,8 @@ As a freelancer, I specialize in:
 
 - **Data Analysis**  : Extracting insights, identifying trends, and creating visual reports.
 - **Advanced Excel** : From formulas to complex models, I have experience with VBA, pivot tables, and data visualization.
-- **Power BI **      : Crafting visually appealing and informative dashboards for business intelligence.
-- **Database Management **  : Integrating data sources, ensuring smooth data flow and accuracy.
+- **PowerBI**      : Crafting visually appealing and informative dashboards for business intelligence.
+- **Database Management**  : Integrating data sources, ensuring smooth data flow and accuracy.
 - **Custom Web Development**: Building dynamic, user-friendly websites with integrated database solutions.
 
  My Tools & Skills
